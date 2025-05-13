@@ -55,7 +55,7 @@ Sistema de controle de acesso para portaria escolar, desenvolvido em Python com 
 
 1. **Clone** o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/portaria_eletronica.git
+   git clone https://github.com/gordaoescolas/portaria_eletronica.git
    cd portaria_eletronica
    ```
 
