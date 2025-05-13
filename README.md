@@ -16,7 +16,6 @@ Sistema de controle de acesso para portaria escolar, desenvolvido em Python com 
 ```
 .
 ├── .gitattributes
-├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
